@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://min-website-2024.vercel.app/
 locale: en-us
-title: My New Hugo Project
+title: Min's Blog
 theme: ["PaperMod"]
