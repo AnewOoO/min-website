@@ -2,3 +2,7 @@ baseURL: https://minlian.xyz/
 locale: en-us
 title: Min's Blog
 theme: ["PaperMod"]
+
+params:
+  hideSummary: true
+  disableSpecial1stPost: true
